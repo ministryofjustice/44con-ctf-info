@@ -1,11 +1,13 @@
 
 ##This doc
-This doc will be updated during the conf as needed so keep an eye for it. Twitter for MOJ Digital: https://twitter.com/Justice_Digital
-
-
+This doc will be updated during the conf as needed so keep an eye for it. Twitter for MOJ Digital: [@Justice_Digital](https://twitter.com/Justice_Digital)
 
 ##Background
-Prison break!
+Prison break! Type of challenges: Web
+
+A series of web apps to break into prison and release yo' boy. (Not controversial at all).
+
+blog bost: https://44con.com/2016/08/31/ctf/
 
 ##Registration
 
@@ -31,6 +33,9 @@ Without spoiling too much, the design is as such:
 * HTTP basic auth password with username: dab  password: what you have been given as basic key. Sometimes this might pop up in the web apps, and break the flow, but it exists so other teams don't interfere with each other.
 * These credentials / hosts should not be shared outside of your team
 
+##Flag submission
+Submit the flags by sending a PM to ohmygauss. We will be recording the timestamps and award points accordingly.
+
 ##Hints
 Some hints might be provided in IRC depending how people get on with it. For troubleshooting or problems please talk to us directly or in pm.
 
@@ -38,5 +43,10 @@ Some hints might be provided in IRC depending how people get on with it. For tro
 * Don't attack the hosts themselves or the infra, just the web apps.
 * Be respectful to each other
 * Have fun!
+
+##Prizes
+* A PiDrone (raspberry pi drone self assembly kit) 
+* Clarification: To win a prize you need to be at the conference
+
 
 
