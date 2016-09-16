@@ -13,7 +13,8 @@ blog post: https://44con.com/2016/08/31/ctf/
 
 ###Update: We are closing official registration Friday 12:00
 ###Update: Winners have already been identified and will be announced at 16:00
-###Infra will remain up until the evening (possibly 7-8pm) for people who just want to take a look or have a go
+###~~Infra will remain up until the evening (possibly 7-8pm) for people who just want to take a look or have a go~~
+###Actually the conference closes at 16:00, so the infra will shut down at 16:00 as well
 
 We have decided to use IRC so that we can copy paste some of the credentials because they are too long!
 
