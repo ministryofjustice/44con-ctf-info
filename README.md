@@ -7,12 +7,15 @@ Prison break! Type of challenges: Web
 
 A series of web apps to break into prison and release yo' boy. (Not controversial at all).
 
-blog bost: https://44con.com/2016/08/31/ctf/
+blog post: https://44con.com/2016/08/31/ctf/
 
 ##Registration
 
-We have decided to use IRC so that we can copy paste some of the credentials because they are too long!
+###Update: We are closing official registration Friday 12:00
+###Update: Winners have already been identified and will be announced at 16:00
+###Infra will remain up until the evening (possibly 7-8pm) for people who just want to take a look or have a go
 
+We have decided to use IRC so that we can copy paste some of the credentials because they are too long!
 
 Registration via IRC (SSL) on irc.ctf.pwnz.org 6697 on channel `#CTF`
 
