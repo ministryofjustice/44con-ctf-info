@@ -53,4 +53,5 @@ Some hints might be provided in IRC depending how people get on with it. For tro
 * Clarification: To win a prize you need to be at the conference
 
 
-
+##Acknowledgements
+Thanks to everyone who participated this year! Also thanks to afraid.org for providing such a cool hostname (irc.ctf.pwnz.org) check them out at http://freedns.afraid.org/ it is a free service.
